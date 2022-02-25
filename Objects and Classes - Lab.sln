@@ -15,9 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T05. Students 2.0", "T05. S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T06. Store Boxes", "T06. Store Boxes\T06. Store Boxes.csproj", "{9A7DA064-07D6-4288-A3F5-7D5B66FF8D34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T.06.StoreBoxes", "T.06.StoreBoxes\T.06.StoreBoxes.csproj", "{890520A6-D40D-4872-90FB-254512F51DC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T.06.StoreBoxes", "T.06.StoreBoxes\T.06.StoreBoxes.csproj", "{890520A6-D40D-4872-90FB-254512F51DC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T07. Vehicle Catalogue", "T07. Vehicle Catalogue\T07. Vehicle Catalogue.csproj", "{227A0E1A-3E21-4B19-A088-2244CEE5B784}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T07. Vehicle Catalogue", "T07. Vehicle Catalogue\T07. Vehicle Catalogue.csproj", "{227A0E1A-3E21-4B19-A088-2244CEE5B784}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T06. Store Boxes - Retake", "T06. Store Boxes - Retake\T06. Store Boxes - Retake.csproj", "{A927A68B-0EA2-4A22-9034-526CD0E5A000}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T07. Vehicle Catalogue - Retake", "T07. Vehicle Catalogue - Retake\T07. Vehicle Catalogue - Retake.csproj", "{6A102F7A-E5E2-4F22-8583-E40D62940A73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{227A0E1A-3E21-4B19-A088-2244CEE5B784}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{227A0E1A-3E21-4B19-A088-2244CEE5B784}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{227A0E1A-3E21-4B19-A088-2244CEE5B784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A927A68B-0EA2-4A22-9034-526CD0E5A000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A927A68B-0EA2-4A22-9034-526CD0E5A000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A927A68B-0EA2-4A22-9034-526CD0E5A000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A927A68B-0EA2-4A22-9034-526CD0E5A000}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A102F7A-E5E2-4F22-8583-E40D62940A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A102F7A-E5E2-4F22-8583-E40D62940A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A102F7A-E5E2-4F22-8583-E40D62940A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A102F7A-E5E2-4F22-8583-E40D62940A73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
